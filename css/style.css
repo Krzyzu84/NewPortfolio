@@ -212,6 +212,8 @@
 .img-container {
   position: relative;
   overflow: hidden;
+  width: 100%;
+  max-height: 200px;
   background: linear-gradient(rgb(219, 219, 215), rgba(14, 134, 181, 0.9));
 }
 
@@ -258,3 +260,4 @@
   display: flex;
   justify-content: center;
 }
+
